@@ -1,5 +1,6 @@
 *Solutions*
 lyrics/*
+data/*
 twitter-data/*
 .DS_Store
 *api_keys*.py
